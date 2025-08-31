@@ -22,13 +22,13 @@ The dataset is taken from Kaggle. [Link](https://www.kaggle.com/competitions/fak
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Darkhunt16/Fake-News-Prediction.git
+git clone https://github.com/Darkhunt16/VeriNews.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd fake-news-detection
+cd VeriNews
 ```
 
 3. Install the dependencies
