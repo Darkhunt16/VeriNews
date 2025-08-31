@@ -1,4 +1,4 @@
-# Fake News Detection Project
+# VeriNews
 
 This project develops a machine learning model to classify news articles as fake or real, addressing the harmful effects of fake news on society. A diverse dataset of news articles was used for training and validation, ensuring robust results. The model's performance was evaluated using four different techniques for accuracy and reliability. The goal is to identify misinformation effectively and prevent its spread. This initiative supports maintaining information integrity in the digital era.
 
